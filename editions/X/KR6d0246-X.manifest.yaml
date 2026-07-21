@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0246_000-X.yaml, hash: 'sha256:133467df07af56efd5191aedd9dfcb0b9ae8c6a148d360ce2e4067c17b0128f6'}
+  - {seq: 0, filename: KR6d0246_000-X.yaml, hash: 'sha256:7b68abf8e382183919f42b9f59c3e76260a3c70ddb1bbaaebae36d7519dbeba1'}
   - {seq: 1, filename: KR6d0246_001-X.yaml, hash: 'sha256:98a19c7e54dc41d3e3669804506e49d9541888645fdd6d8c422c803595a6fccf'}
   - {seq: 2, filename: KR6d0246_002-X.yaml, hash: 'sha256:79d98871c13155e0afa6d42a0bfdaf2d2ed58327df6b5911cb18738eb39530ec'}
   - {seq: 3, filename: KR6d0246_003-X.yaml, hash: 'sha256:ae5b3faff2f73fdbd5ad1b0f35eea33dc3cf077e17688f14d5713b478ae83c81'}
@@ -27,7 +27,7 @@ assets:
   - {seq: 5, filename: KR6d0246_005-X.yaml, hash: 'sha256:4fcdfdb9ec3da6aa5fb60774cc528417fa735f56cba638c4581dc7b183a87136'}
   - {seq: 6, filename: KR6d0246_006-X.yaml, hash: 'sha256:02de95fa7f8ad15bc7176412df10722b2bc95feac925f72e171cb5ff49f82e6d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0246_000-X.markers.yaml, hash: 'sha256:3632db383f115d7e5323e78a5e50be77b36c42b5a3c937a0ded68c998802ce01'}
+  - {seq: 0, role: markers, filename: assets/KR6d0246_000-X.markers.yaml, hash: 'sha256:b89398e6c6f8b9c582d9f7fbafe4870285848fb2d4d4ae4ccd204d5d2e194523'}
   - {seq: 1, role: markers, filename: assets/KR6d0246_001-X.markers.yaml, hash: 'sha256:4317732283b68c666ec660b09b45fbaca611f8cdbac1efdde7a0b3f691fd5c54'}
   - {seq: 2, role: markers, filename: assets/KR6d0246_002-X.markers.yaml, hash: 'sha256:48940b6f1c3521114779c464331488508b3065d4cebc5859b1ba1d5ae3a87598'}
   - {seq: 3, role: markers, filename: assets/KR6d0246_003-X.markers.yaml, hash: 'sha256:d0c92b45f8d25b08d3227663e2f01b9c4f22ecf3f181e58c7a1f151e5632b7e3'}
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0246_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 970-A 性善惡論序
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0246_X_000-mulu-2
     span:
-    - front
+    - body
     - 718
     - 718
   label: No. 970-B 性善惡論序
@@ -1075,4 +1075,4 @@ table_of_contents:
   label: 結文
   type: mulu
   level: 1
-hash: sha256:cb3f4fc5cce49f6e9c40c8dce42d310a2a095b4bfd3cb72c3d5dbcea69b0717a
+hash: sha256:e7ec4e3702d7c7aa69497ecc0b54cca04d351dfaaed44699ad7fe8732fb1e8df

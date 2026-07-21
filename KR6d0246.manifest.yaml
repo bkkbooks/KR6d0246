@@ -21,7 +21,7 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0246_000.yaml, hash: 'sha256:420705c577089045ae9eb07415de86af86724adbfebccd56f9c54114c183ab46'}
+  - {seq: 0, filename: KR6d0246_000.yaml, hash: 'sha256:ff0927636d62b484f90adeb6c2b88e447a9916faca28c7fa41443c2ef99e8bce'}
   - {seq: 1, filename: KR6d0246_001.yaml, hash: 'sha256:fd0d240a5f6ccaf9fd880025b237c959f44758845dcc26ba1c9a8674fe99b05a'}
   - {seq: 2, filename: KR6d0246_002.yaml, hash: 'sha256:07b3322329e517ef96bcf785f3be07eb45bd68bcda7fab50b7d4a5f94b7054e5'}
   - {seq: 3, filename: KR6d0246_003.yaml, hash: 'sha256:da895ec77b534734e24585e0f32de6ab64feeb90dece1e87090b17c605e2a869'}
@@ -29,7 +29,7 @@ assets:
   - {seq: 5, filename: KR6d0246_005.yaml, hash: 'sha256:b18bff6fcd24bff6a2856e5ad5d74583e07153ee317df73d1ee31e3d8703f076'}
   - {seq: 6, filename: KR6d0246_006.yaml, hash: 'sha256:ac521f93ec4e98aaed41a2e978d225fd9df834d54175a1257a11b57ce27cbe98'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0246_000.markers.yaml, hash: 'sha256:d2358c06381da4bd6f500010cff4802c3f77a930c2eaa3f463628f1cfe87e5d2'}
+  - {seq: 0, role: markers, filename: assets/KR6d0246_000.markers.yaml, hash: 'sha256:d7bda5802157f501d5ae408bc28a4dbcfed645a596ab706fa64b1fab2c83bdce'}
   - {seq: 1, role: markers, filename: assets/KR6d0246_001.markers.yaml, hash: 'sha256:3e52bc3d4d83a02ad6e245d0ebfcfde32d11596868d65198a5f6293f1b323f6e'}
   - {seq: 2, role: markers, filename: assets/KR6d0246_002.markers.yaml, hash: 'sha256:4fca38c106ddb61fecd340983cb92122c4023a7844672eebce591e89c1d5cfdc'}
   - {seq: 3, role: markers, filename: assets/KR6d0246_003.markers.yaml, hash: 'sha256:7972c8cd6e9d7ab8242d971d36bf7590c48eadf589111c2bba27fda08c9b6eba'}
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0246_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 970-A 性善惡論序
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0246_X_000-mulu-2
     span:
-    - front
+    - body
     - 718
     - 718
   label: No. 970-B 性善惡論序
@@ -1077,7 +1077,7 @@ table_of_contents:
   label: 結文
   type: mulu
   level: 1
-hash: sha256:fea36be75ddc5c229bbe75e21f2e84c0d16034e65074110f911bf2433954f8dd
+hash: sha256:b7efa20028627a50185ea62ab7489eee289e649a2ac8d307e95bebb937b00e38
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
